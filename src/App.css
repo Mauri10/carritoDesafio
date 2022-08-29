@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*css NavBar*/
+
+.menu{
+  display: inline;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.navbar-nav {
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.navbar-nav li {
+  display: inline;
+  text-align: center;
+  margin: 20px;
+}
+
+
+
+.col-tentate{
+  background-color: brown;    
+}
+
+.navLogo{
+  width: 30px;
+}
+
+
+#inicio,
+#nosotros,
+#productos,
+#ptosVenta,
+#galeria,
+#contacto {
+  color: white !important;
+}
